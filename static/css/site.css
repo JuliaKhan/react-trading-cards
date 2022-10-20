@@ -21,3 +21,10 @@ body {
 img {
   height: 7em;
 }
+
+.home_img {
+  display: block;
+  max-width: 500px;
+  width: auto;
+  height: auto;
+}
